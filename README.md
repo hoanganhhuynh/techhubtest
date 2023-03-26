@@ -10,3 +10,6 @@ How to test
     2. Run 'dotnet ef migrations add InitDatabase  -s TodoAPI -p Infrastructure'
     3. Use Postman or any tool to test API and call to the endpoints to test
         + In order to authenticate with the endpoint. Add 'x-api-key' with value is '2wDf5xsR7F' to header of request
+
+Note:
+    - Actually I can not test this application because I have to deal with some issue with the environment. I am using macos now. So when I have to use SQLServer in Macos it's quite challenage. So I am so sorry if my code is not woking. 
