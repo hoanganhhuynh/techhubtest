@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoAPI", "todoapp\TodoAPI.csproj", "{F48914AE-025F-4ECD-912F-200DC4993EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{8206BBA6-C63F-48CF-99B9-1F53C1884969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{1F20B193-F022-46D9-8B29-A2D90C1D601F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48914AE-025F-4ECD-912F-200DC4993EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48914AE-025F-4ECD-912F-200DC4993EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48914AE-025F-4ECD-912F-200DC4993EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48914AE-025F-4ECD-912F-200DC4993EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8206BBA6-C63F-48CF-99B9-1F53C1884969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8206BBA6-C63F-48CF-99B9-1F53C1884969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8206BBA6-C63F-48CF-99B9-1F53C1884969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8206BBA6-C63F-48CF-99B9-1F53C1884969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F20B193-F022-46D9-8B29-A2D90C1D601F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F20B193-F022-46D9-8B29-A2D90C1D601F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F20B193-F022-46D9-8B29-A2D90C1D601F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F20B193-F022-46D9-8B29-A2D90C1D601F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F846606-BBD5-432B-9413-0A59C18599C4}
+	EndGlobalSection
+EndGlobal

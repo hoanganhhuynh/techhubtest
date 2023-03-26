@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F48914AE-025F-4ECD-912F-200DC4993EDF}|todoapp">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TodoAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="todoapp/Extensions/ServiceCollectionExtensions.cs">
+    <Files>
+      <File FileName="todoapp/Program.cs" Line="23" Column="54" />
+      <File FileName="todoapp/Middleware/ApiKeyMiddleware.cs" Line="19" Column="54" />
+      <File FileName="todoapp/Middleware/ExceptionHandlerMiddleware.cs" Line="11" Column="51" />
+      <File FileName="todoapp/Extensions/WebApplicationBuilderExtension.cs" Line="18" Column="43" />
+      <File FileName="Domain/Entities/BaseEntity.cs" Line="4" Column="25" />
+      <File FileName="Infrastructure/TodoDbContext.cs" Line="13" Column="35" />
+      <File FileName="todoapp/Extensions/ServiceCollectionExtensions.cs" Line="11" Column="44" />
+      <File FileName="todoapp/Startup.cs" Line="30" Column="32" />
+      <File FileName="Domain/Contracts/ITodoRepository.cs" Line="11" Column="7" />
+      <File FileName="Infrastructure/Repositories/TodoRepository.cs" Line="35" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApp" expanded="True" selected="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Contracts" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="TodoAPI" expanded="True">
+              <Node name="Extensions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
